@@ -1,27 +1,44 @@
 # game-proposal
 
- ### Galaga 
-- Basically a galaga derivative that allows the players to fight ships that spawn. The player will earn points as he destroys ships and can upgrade his ship over time. After completion of the base game players can either play again, quit, or activate and endless mode where the alien ships will get harder but the player will earn more points and try to kill as many ships as he can to get the high score
+ ### Dropper/Simon
+- Dropper: Several bad guys fall from the top of the screen, and the user must avoid them. The player can be controlled with the arrow keys or more directly with the mouse. The longer the player lasts without being hit, the higher the score.
+
+- Simon: Description: Four colored buttons light up in a specific pattern. After displaying the pattern, the player must repeat the pattern by clicking the buttons in proper order. The pattern gets longer each time the player completes the pattern. If the player presses a wrong button, the game ends.
+
+
 
 ### Rules of the game
-- Players press the arrows dog and hopefully will allow players and ships to attack each other at the same time.
+- Dropper:
+  - Players press the arrows dodge allow monsters attack.
+  - players can retreat to return to base and purchase upgrades for their character before the next battle 
 
-- players can retreat to return to base and purchase upgrades for their ship before the next battle 
+- Simon:
+  - Players press the  the four squares according to the given sequence.
+  - players can earn points to get sequence replays in case they missed the sequence
 
 
-### Technical Challenges
+### Technical Challenges (Dropper)
 - canvas
 - Ships moving while player moves 
 - Grid w/Canvas
 
+### Technical Challenges (Simon)
+- Grid
+- keyframes
+
 
 ### Wireframe
+Dropper/Simon start page:
 ![Test Image 1](wireframe1.png)
-![Test Image 1](wireframe2.png)
+
+Dropper wireframe:
+![Test Image 1](wireframe3.png)
+
+Simon Wireframe:
+![Test Image 1](wireframe4.png)
 
 
 ### Timeline
-
 
 - Tuesday
 
